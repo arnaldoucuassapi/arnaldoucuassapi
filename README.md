@@ -1,7 +1,7 @@
  # Arnaldo Ucuassapi
 
  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&&target=_blanklogoColor=white&link=https://www.linkedin.com/in/armanco/)](https://www.linkedin.com/in/) 
- [![WhatsApp](https://img.shields.io/badge/Discord-23777BB4?style=for-the-badge&logo=discord&logoColor=white&link=https://medium.com/@armanco)](https://discord.com/) 
+ [![WhatsApp](https://img.shields.io/badge/Discord-a200ff?style=for-the-badge&logo=discord&logoColor=white&link=https://medium.com/@armanco)](https://discord.com/) 
   
  I am a *** web and android developer***, with some years of experience in web and app development, mainly working on **`#Javascript`**, **`#PHP`**, and **`#Java`**. 
   
@@ -16,6 +16,7 @@
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) 
  ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) 
  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+ ![Sql](https://img.shields.io/badge/sql-%2320232a.svg?style=flat-square&logo=sql&logoColor=%2361DAFB)
 
 <!---
 arnaldoucuassapi/arnaldoucuassapi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
