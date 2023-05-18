@@ -1,11 +1,12 @@
  # Arnaldo Ucuassapi
 
  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&&target=_blanklogoColor=white&link=https://www.linkedin.com/in/armanco/)](https://www.linkedin.com/in/) 
- [![WhatsApp](https://img.shields.io/badge/Discord-a200ff?style=for-the-badge&logo=discord&logoColor=white&link=https://medium.com/@armanco)](https://discord.com/) 
+ [![Discord](https://img.shields.io/badge/Discord-a200ff?style=for-the-badge&logo=discord&logoColor=white&link=https://medium.com/@armanco)](https://discord.com/)
+ [![Instagram](https://img.shields.io/badge/-Instagram-a200ff?style=for-the-badge&logo=discord&logoColor=white&link=https://medium.com/@armanco)](https://instagram.com/) 
   
- I am a *** web and android developer***, with some years of experience in web and app development, mainly working on **`#Javascript`**, **`#PHP`**, and **`#Java`**. 
+ I am a *** web and mobile developer***, with some years of experience in web and app development, mainly working on **`#Javascript`**, **`#PHP`**, and **`#Java`**. 
   
- In web development, I worked with different ***frontend frameworks*** such as `React` and `Next`. I have experience working with ***backend frameworks*** such as `Express`. However, my preference is frontend development. 
+ In web development, I worked with different ***frontend frameworks*** such as `React JS` and `Next JS`. I have experience working with ***backend frameworks*** such as `Fastify` and `Prisma JS`. However, my preference is frontend development. 
   
  In android development, I worked as a ***native developer*** using `java` language. By the way, I worked with `react native` as ***cross-platforms frameworks***. 
   
