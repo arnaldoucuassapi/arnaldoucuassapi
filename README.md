@@ -1,7 +1,7 @@
  # Arnaldo Ucuassapi
 
  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&&target=_blanklogoColor=white&link=https://www.linkedin.com/in/arnaldo-ucuassapi-740252247/)](https://www.linkedin.com/in/arnaldo-ucuassapi-740252247/) 
- [![Instagram](https://img.shields.io/badge/-Instagram-a200ff?style=for-the-badge&logo=discord&logoColor=white&link=https://medium.com/@armanco)](https://instagram.com/arnaldoucuasspi) 
+ [![Instagram](https://img.shields.io/badge/-Instagram-E23199?style=for-the-badge&logo=instagram&logoColor=white&link=https://medium.com/@armanco)](https://instagram.com/arnaldoucuasspi)
   
  I am a *** web and mobile developer***, with some years of experience in web and app development, mainly working on **`#Javascript`**, **`#PHP`**, and **`#Java`**. 
   
